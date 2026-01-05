@@ -1,4 +1,4 @@
-#R_code (v4.2.0) for Figure 4
+#R_code (v4.2.0) for Figure 5
 #loading package
 library(Hmisc)
 library(psych)
@@ -295,3 +295,4 @@ ggraph(network, layout = "circle") +
   scale_edge_color_manual(values = edge_colors) + 
   geom_node_text(aes(label = name), repel = TRUE, size = 3) +
   theme_void()
+
