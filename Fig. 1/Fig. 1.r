@@ -18,7 +18,7 @@ library(ggpubr)
 library(ggridges)
 
 #work dir
-setwd("D:/Process_work/huge_virus/Rdata/R_for_github/Fig. 1/")
+setwd("Fig. 1/")
 
 #Fig. 1a
 #Qingdao map 
@@ -153,4 +153,5 @@ ggplot(data, aes(x=quality, y=contamination)) +
         axis.text.x = element_text(hjust =0.5,size=13.5,colour = 'black'),
         axis.text.y=element_text(size=13.5,colour = 'black'),
         axis.line = element_line(colour = "black", size = 0.5))+
+
   theme(legend.position = "none")
