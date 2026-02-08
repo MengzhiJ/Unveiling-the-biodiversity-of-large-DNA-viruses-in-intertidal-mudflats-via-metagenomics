@@ -1,4 +1,4 @@
-# Unveiling-the-biodiversity-of-intertidal-large-DNA-viruses-via-genome-centric-metagenomes
+# Unveiling-the-biodiversity-of-large-DNA-viruses-in-intertidal-mudflats-via-metagenomics
 ### Code availability
 The R code and raw data used to generate figures and to perform the associated data analyses are provided in the corresponding directory.
 
